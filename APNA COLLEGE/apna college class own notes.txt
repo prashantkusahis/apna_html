@@ -1,0 +1,54 @@
+linkedin html test:Topics: Beyond HTML; HTML Fundamentals; Images, Sound, and Video; Tables and Mathematics; Web for All
+heading tag
+paragraph
+anchor tag
+image tag
+br tag
+bold/italic and underline tags
+big and small tags
+hr tag
+pre tag
+
+page layout:
+semantic tag(below)
+header tag
+main
+footer
+section tag
+article tag
+aside tag: mainly used for ad :not detected by seo
+
+non semantic tags(below)
+div tag(block)
+span(inline)
+
+
+list tag
+ol(ordered list)
+ul(unordered list)
+
+table tag
+<tr>table row
+<td>table data
+<th>table header
+<thead>table header:used for heading part of the table
+<tbody>table body: to wrap us the body of a table
+attribute:colspan
+
+form in html(unlcear about the form part)
+<form>: action attribute
+<input>
+<lable>class and id
+<select>
+
+to show website inside a website
+iframe tag
+
+video tag
+<video src=" ">
+
+portfolio: education;experience;projects;courses and certification; resume; add image and links to linkedin profile or github profile; add signup page
+next project create a website for mca student resources
+
+
+
